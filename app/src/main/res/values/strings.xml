@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="splash_text">Top 5\nWebsites Ranking</string>
+    <string name="top_sites_text">Websites Ranking</string>
+    <string name="filter_label">Filter</string>
+    <string name="all_label">All</string>
+    <string name="start_date_hint">Start Date</string>
+    <string name="end_date_hint">End Date</string>
+    <string name="website_name_text">Website Name</string>
+    <string name="visit_date_text">Visit Date</string>
+    <string name="total_visits_text">Total Visits</string>
+    <string name="choose">Choose</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
